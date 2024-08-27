@@ -1,6 +1,5 @@
 ## BEM VINDO AO MEU REPOSITÓRIO
 
-
 -Eu gosto de criar varios jogos...
 -Estudo no colegio Estadual Dirce de Aguiar Maia
 -Pretendo criar um jogo completo.
